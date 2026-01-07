@@ -67,6 +67,6 @@ Below are representative screenshots of the product experience.
 ### Contact
 - Name: Reeya Patra
 - Email: reeyapatra321@gmail.com
-- LinkedIn: (add your link)
-- Portfolio: (add your link)
+- LinkedIn: https://www.linkedin.com/in/reeyapatra/
+
 
